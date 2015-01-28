@@ -8,10 +8,6 @@ var lessMiddleware = require('less-middleware');
 
 var app = express();
 
-// db connection
-// var dbConfig = require('./db.js');
-// var mongoose = require('mongoose');
-// mongoose.connect(dbConfig.url);
 
 // assign the dust engine to .dust files
 var cons = require('consolidate');
@@ -37,41 +33,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Routes
 var routes = require('./routes');
-app.get('/', routes.index);
-
-// catch 404 and forward to error handler
-app.use(function(req, res, next) {
-    var err = new Error('Not Found');
-    err.status = 404;
-    next(err);
-});
-
-// error handlers
-
-// development error handler
-// will print stacktrace
-if (app.get('env') === 'development') {
-    app.use(function(err, req, res, next) {
-        res.status(err.status || 500);
-        console.log(err);
-        res.render('error', {
-            message: err.message,
-            error: {}
-        });
-    });
-}
-
-// production error handler
-// no stacktraces leaked to user
-app.use(function(err, req, res, next) {
-    res.status(err.status || 500);
-    console.log(err);
-    res.render('error', {
-        message: err.message,
-        error: {}
-    });
-});
-
+routes(app);
 
 
 http.createServer(app).listen(app.get('port'), function(){

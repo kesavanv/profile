@@ -1,0 +1,149 @@
+[
+    {
+        "duration": {
+            "startdate": "Feb 20, 2014",
+            "enddate": "Present"
+        },
+        "designation": "User Interface Engineer",
+        "employer": {
+            "companyname": "PayPal",
+            "website": "http://www.paypal.com"
+        },
+        "roles": [
+            {"role" : "Working on end to end NodeJs front end web applications using opensource KrakenJs."},
+            {"role" : "Working with latest front-end MVC framework using Nodejs, Backbonejs, Dustjs, LESS, etc"},
+            {"role" : "Working closely with UI designers to improve the usability"},
+            {"role" : "Involved in technical Design Discussions with Back-end Developers aka controller layer in MVC framework."},
+            {"role" : "Achieved all 3 prizes in a static webpage development competition conducted for company-wide front-end web developers"},
+            {"role" : "Also worked on proprietary XPT architecture (XML, XHTML, CSS, JS), and in JSP"}
+        ]
+    },
+    {
+        "duration": {
+            "startdate": "Jul 01, 2012",
+            "enddate": "Feb 19, 2014"
+        },
+        "designation": "Associate Manager - Application Development",
+        "employer": {
+            "companyname": "CSC",
+            "website": "http://www.csc.com/in"
+        },
+        "client": {
+            "companyname": "PayPal",
+            "website": "http://www.paypal.com"
+        },
+        "roles": [
+            {"role" : "Working on end to end NodeJs front end web applications using opensource KrakenJs."},
+            {"role" : "Working with latest front-end MVC framework using Nodejs, Backbonejs, Dustjs, LESS, etc"},
+            {"role" : "Working closely with UI designers to improve the usability"},
+            {"role" : "Involved in technical Design Discussions with Back-end Developers aka controller layer in MVC framework."},
+            {"role" : "Achieved all 3 prizes in a static webpage development competition conducted for company-wide front-end web developers"},
+            {"role" : "Also worked on proprietary XPT architecture (XML, XHTML, CSS, JS), and in JSP"}
+        ]
+    },
+    {
+        "duration": {
+            "startdate": "Aug 03, 2009",
+            "enddate": "Jun 30, 2012"
+        },
+        "designation": "Senior Software Engineer",
+        "employer": {
+            "companyname": "CSC",
+            "website": "http://www.csc.com/in"
+        },
+        "client": {
+            "companyname": "PayPal",
+            "website": "http://www.paypal.com"
+        },
+        "roles": [
+            {"role" : "Working on end to end NodeJs front end web applications using opensource KrakenJs."},
+            {"role" : "Working with latest front-end MVC framework using Nodejs, Backbonejs, Dustjs, LESS, etc"},
+            {"role" : "Working closely with UI designers to improve the usability"},
+            {"role" : "Involved in technical Design Discussions with Back-end Developers aka controller layer in MVC framework."},
+            {"role" : "Achieved all 3 prizes in a static webpage development competition conducted for company-wide front-end web developers"},
+            {"role" : "Also worked on proprietary XPT architecture (XML, XHTML, CSS, JS), and in JSP"}
+        ]
+    },
+    {
+        "duration": {
+            "startdate": "Jul 21, 2008",
+            "enddate": "Jul 31, 2009"
+        },
+        "designation": "Senior UI Designer",
+        "employer": {
+            "companyname": "Dot Com Infoway",
+            "website": "http://www.dotcominfoway.com/"
+        },
+        "roles": [
+            {"role" : "Handled a team of web designers for the perfect completion of projects"},
+            {"role" : "Analyzed and standardized existing application with improved usability and user experience"},
+            {"role" : "Created prototype design, task flows design, and style guideline documents"},
+            {"role" : "Developed documentation of application interfaces, including wireframes, graphical design and user specification documents."},
+            {"role" : "Hand coded prototypes in valid XHTML and CSS with cross browser compatibility across wide range of browsers (IE 5.5, 6.0, 7.0, Firefox, Chrome, Opera, safari, and Netscape)"},
+            {"role" : "Trained other web designers in CSS and web standards"}
+        ]
+    },
+    {
+        "duration": {
+            "startdate": "Jun 01, 2007",
+            "enddate": "Jul 18, 2008"
+        },
+        "designation": "Senior Software Engineer (User Interface)",
+        "employer": {
+            "companyname": "iGATE Global Solutions",
+            "website": "http://www.igate.com/"
+        },
+        "roles": [
+            {"role" : "Designed and coded prototypes for ecommerce websites using validated XHTML, CSS, Fireworks and GIMP"},
+            {"role" : "Hand coded Static pages to accomplish semantic web and Cross browser compatibility across wide range of browsers (IE 5.5, 6.0, 7.0, Firefox, Opera, safari, and Netscape)"},
+            {"role" : "Planned and designed interfaces with attention given to multi-lingual needs of the project"},
+            {"role" : "Achieved internal awards for drastically reducing UI issues on ecommerce websites"},
+            {"role" : "Worked with programmers in analyzing framework constraints and provided productive solutions to drastically reduce UI problems for future developments also"},
+            {"role" : "Established user interface design standards, guidelines, and checklists to enhance Development of ecommerce websites"},
+            {"role" : "Mentored other Interaction Designers through sharing of knowledge and experience"}
+        ]
+    },
+    {
+        "duration": {
+            "startdate": "Dec 16, 2003",
+            "enddate": "May 31, 2007"
+        },
+        "designation": "Senior Software Engineer (User Interface)",
+        "employer": {
+            "companyname": "Salzer Technologies",
+            "website": "http://www.salzertechnologies.com/"
+        },
+        "roles": [
+            {"role" : "Directed all front-end design projects from concept to completion"},
+            {"role" : "Captured details of project designs via storyboards and prototypes"},
+            {"role" : "Created logo concepts, wireframes, and graphical mock-ups for company product (Events Portfolio Management)"},
+            {"role" : "Designed mockups for web application (Solution Sharing Network for Microsoft) and assisted dot net programmers in customizing CSS in Microsoft SharePoint portal"},
+            {"role" : "Contributed usability enhancements and made general improvements to applications (used by Pfizer Pharmaceuticals) "},
+            {"role" : "Designed and developed almost 250 intranet websites for Pfizer pharmaceuticals"},
+            {"role" : "Redesigned web-based version of time management application (WorkPath for LaborLogix) which improved usability while incorporating new features"},
+            {"role" : "Established successful market branding for few clients via new logo, and brand identity"},
+            {"role" : "Maintained various client sites using HTML, XHTML, CSS, Dreamweaver, Fireworks, and Photoshop"},
+            {"role" : "Built out and maintained company's parent web site"},
+            {"role" : "Created Flash Intros, and Animations for corporate presentations"},
+            {"role" : "Created illustrations with cartoon characters for comic prints using adobe illustrator"}
+        ]
+    },
+    {
+        "duration": {
+            "startdate": "Jun 17, 2003",
+            "enddate": "Dec 15, 2003"
+        },
+        "designation": "Web Designer",
+        "employer": {
+            "companyname": "Locus Technologies",
+            "website": "http://locustechnologies.com/"
+        },
+        "roles": [
+            {"role" : "Designed Complete UI including icons for company’s product (EduManage, a college management software)"},
+            {"role" : "Developed the common look and functionality to be migrated across the product suite to ensure user interface consistency"},
+            {"role" : "Created Interface style guide from the scratch for the company’s product"},
+            {"role" : "Maintained various client websites using HTML, XHTML, CSS, Dreamweaver, and Photoshop"},
+            {"role" : "Built out and maintained company's parent web site"}
+        ]
+    }
+]
