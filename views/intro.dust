@@ -1,0 +1,6 @@
+<section id="main" class="jumbotron main-banner">
+	<div class="container intro">
+		<h1 class="fn">{name}</h1>
+		<div class="desc">{role}</div>
+	</div>	    	
+</section>

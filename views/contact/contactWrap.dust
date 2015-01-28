@@ -1,0 +1,9 @@
+{?contact}
+<section id="contact" class="">
+	<div class="full-header">
+		<div class="container">
+			<h2>Contact</h2>
+		</div>
+	</div>
+</section>
+{/contact}

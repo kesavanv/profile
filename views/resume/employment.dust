@@ -1,0 +1,25 @@
+<div class="row employment">
+	<div class="col-md-12">
+		<h3>Employment</h3>
+		{#experience}
+			<div class="row vevent">
+			<div class="col-md-4 ">
+				<div class="duration">
+	                <abbr class="dtstart badge">{duration.startdate}</abbr> - <abbr class="dtend badge">{duration.enddate}</abbr>
+	            </div>
+
+				<h4>{?client}<a href="{client.website}" target="_blank">{client.companyname}</a> (Client) through {/client}<a href="{employer.website}">{employer.companyname}</a></h4>
+				
+				<p>{designation}</p>
+			</div>
+			{?roles}
+				<div class="col-md-8 role">
+					<ul>
+						{#roles}<li>{role}</li>{/roles}
+					</ul>
+				</div>
+			{/roles}
+		</div>
+		{/experience}
+	</div>
+</div>

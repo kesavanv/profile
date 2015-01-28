@@ -1,0 +1,13 @@
+{?testimonials}
+<section id="testimonials" class="">
+	<div class="full-header">
+		<div class="container">
+			<h2>Testimonials</h2>
+		</div>
+	</div>
+</section>
+{:else}
+	<div class="container">
+		<div class="alert alert-info"><p>Please include some Testimonials to add more value to your profile</p></div>
+	</div>
+{/testimonials}

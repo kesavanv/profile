@@ -1,1 +1,22 @@
-{profile|js}
+{>"layouts/master" /}
+
+{<body}
+	{#profile}
+		<div class="wrapper">
+			<div class="nav"></div>
+			<div class="main">
+				{>"intro"/}
+
+				{>"about"/}
+
+				{>"resume/resumeWrap" /}
+
+				{>"portfolio/portfolioWrap"/}
+
+				{>"testimonials/testimonialsWrap"/}
+
+				{>"contact/contactWrap"/}
+			</div>
+		</div>
+	{/profile}
+{/body}

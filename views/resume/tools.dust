@@ -1,0 +1,6 @@
+<h3>{@pre type="content" key="tools.heading"/}</h3>
+<ul class="tools clearfix">
+    {#tools}
+        <li class="badge">{toolName}</li>
+    {/tools}
+</ul>

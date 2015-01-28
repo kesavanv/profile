@@ -1,0 +1,19 @@
+<section id="resume" class="">
+	<div class="full-header">
+		<div class="container">
+			<h2>{@pre type="content" key="resumeWrap.heading"/}</h2>
+		</div>
+	</div>
+
+    <div class="container">
+		<div class="row">
+			{?skills}
+				<div class="col-md-4 skills">{>"resume/skills"/}</div>
+			{/skills}
+			{?tools}
+			    <div class="col-md-8">{>"resume/tools"/}</div>
+			{/tools}
+    	</div>
+    	{>"resume/employment"/}
+	</div>
+</section>

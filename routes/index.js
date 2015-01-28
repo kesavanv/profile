@@ -6,7 +6,7 @@ module.exports = exports = function (app) {
       res.render('index', { title: 'Express' });
     });
 
-    app.get('/resume', ResumeController.displayResume);
+    app.get('/kesav', ResumeController.displayResume);
 
     // Error handling middleware
     app.use(ErrorHandler);

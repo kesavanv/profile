@@ -1,0 +1,8 @@
+<h3>{@pre type="content" key="skills.heading"/}</h3>
+{#skills} 
+<div class="progress skill">
+  <div class="progress-bar" role="progressbar" aria-valuenow="{fluency}" aria-valuemin="0" aria-valuemax="100" style="width: {fluency}%;">
+    <span>{skillName} - {fluency}%</span>
+  </div>
+</div>
+{/skills}

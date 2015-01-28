@@ -1,0 +1,9 @@
+{?portfolio}
+<section id="portfolio" class="">
+	<div class="full-header">
+		<div class="container">
+			<h2>Portfolio</h2>
+		</div>
+	</div>
+</section>
+{/portfolio}
